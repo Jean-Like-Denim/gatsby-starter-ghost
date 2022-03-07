@@ -31,11 +31,11 @@
     "babel-eslint": "10.1.0",
     "eslint": "8.10.0",
     "eslint-plugin-ghost": "2.13.0",
-    "eslint-plugin-react": "7.29.2"
+    "eslint-plugin-react": "7.29.3"
   },
   "dependencies": {
-    "@tryghost/helpers": "1.1.57",
-    "@tryghost/helpers-gatsby": "1.0.64",
+    "@tryghost/helpers": "1.1.58",
+    "@tryghost/helpers-gatsby": "1.0.65",
     "cheerio": "1.0.0-rc.10",
     "gatsby": "3.12.1",
     "gatsby-awesome-pagination": "0.3.8",
