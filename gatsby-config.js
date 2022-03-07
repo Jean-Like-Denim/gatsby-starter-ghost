@@ -34,7 +34,9 @@ if (process.env.NODE_ENV === `production` && config.siteUrl === `http://localhos
 */
 module.exports = {
     siteMetadata: {
-        siteUrl: process.env.SITEURL || config.siteUrl,
+        title: 'Agency SEO',
+        siteUrl: 'https://agencyseo.com.au',
+        description: 'Next Level SEO Automations For Agencies.'
     },
     plugins: [
         /**
